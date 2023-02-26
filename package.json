@@ -22,7 +22,7 @@
     "react": "^17.0",
     "react-dom": "^17.0",
     "react-helmet": "^6.0.0",
-    "swagger-ui-react": "^3.25.0"
+    "swagger-ui-react": "^4.16.1"
   },
   "devDependencies": {
     "prettier": "2.0.4"
